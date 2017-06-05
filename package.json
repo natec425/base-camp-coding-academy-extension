@@ -2,7 +2,7 @@
     "name": "base-camp-coding-academy",
     "displayName": "Base Camp Coding Academy",
     "description": "Helpful tools for Base Camp Coding Academy students",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "natec425",
     "engines": {
         "vscode": "^1.12.0"
