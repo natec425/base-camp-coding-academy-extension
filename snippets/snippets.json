@@ -1,1 +1,15 @@
-{}
+{
+    "Function Design Recipe": {
+        "prefix": "recipe",
+        "body": [
+            "def ${1:function_name}(${2:parameters}):",
+            "    '''${3:type_signature}",
+            "    ",
+            "    ${4:description}",
+            "    ",
+            "    >>> ${5:example}",
+            "    '''",
+            "    ${6:body}"
+        ]
+    }
+}
