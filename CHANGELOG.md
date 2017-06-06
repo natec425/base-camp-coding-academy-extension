@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.0
+
+- Add doctest-this-file extension dependency
+
 ## 1.1.0
 
 - Add path-intellisense extension dependency

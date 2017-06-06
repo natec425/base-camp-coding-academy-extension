@@ -2,7 +2,7 @@
     "name": "base-camp-coding-academy",
     "displayName": "Base Camp Coding Academy",
     "description": "Helpful tools for Base Camp Coding Academy students",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "natec425",
     "engines": {
         "vscode": "^1.12.0"
@@ -24,6 +24,7 @@
         }
     },
     "extensionDependencies": [
+        "natec425.doctest-this-file",
         "donjayamanne.python",
         "magicstack.magicpython",
         "christian-kohler.path-intellisense"

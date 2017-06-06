@@ -6,9 +6,14 @@ This extension provides helpers for Base Camp Coding Academy students.
 
 - Function design recipe snippet
 - Installs/Configures Python/MagicPython extensions
-- Install Path-intellisense extension
+- Installs Path-intellisense extension
+- Installs Doctest-this-file extension 
 
 ## Release Notes
+
+### 1.2.0
+
+Add doctest-this-file extension dependency
 
 ### 1.1.0
 
