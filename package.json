@@ -24,6 +24,7 @@
         }
     },
     "extensionDependencies": [
+        "natec425.doctest-this-file",
         "donjayamanne.python",
         "magicstack.magicpython",
         "christian-kohler.path-intellisense"
