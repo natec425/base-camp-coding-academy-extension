@@ -1,4 +1,10 @@
 # Change Log
 
+## 1.1.0
+
+- Add path-intellisense extension dependency
+- Add python extension dependencies
+- Add python config defaults
+
 ## 1.0
 - Include function design recipe snippet

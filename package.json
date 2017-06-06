@@ -2,13 +2,14 @@
     "name": "base-camp-coding-academy",
     "displayName": "Base Camp Coding Academy",
     "description": "Helpful tools for Base Camp Coding Academy students",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "natec425",
     "engines": {
         "vscode": "^1.12.0"
     },
     "categories": [
-        "Snippets"
+        "Snippets",
+        "Extension Packs"
     ],
     "contributes": {
         "snippets": [
@@ -16,6 +17,15 @@
                 "language": "python",
                 "path": "./snippets/snippets.json"
             }
-        ]
-    }
+        ],
+        "configurationDefaults": {
+            "python.pythonPath": "python3",
+            "python.linting.pylintEnabled": false
+        }
+    },
+    "extensionDependencies": [
+        "donjayamanne.python",
+        "magicstack.magicpython",
+        "christian-kohler.path-intellisense"
+    ]
 }
