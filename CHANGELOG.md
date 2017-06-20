@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.3.0
+
+- Add formap, forfilter, and forreduce snippets
+
 ## 1.2.0
 
 - Add doctest-this-file extension dependency

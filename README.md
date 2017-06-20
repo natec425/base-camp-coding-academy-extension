@@ -4,12 +4,17 @@ This extension provides helpers for Base Camp Coding Academy students.
 
 ## Features
 
+- For loop snippets for map/filter/reduce
 - Function design recipe snippet
 - Installs/Configures Python/MagicPython extensions
 - Installs Path-intellisense extension
 - Installs Doctest-this-file extension 
 
 ## Release Notes
+
+### 1.3.0
+
+Add for loop snippets for mapping, filtering, and reducing.
 
 ### 1.2.0
 
